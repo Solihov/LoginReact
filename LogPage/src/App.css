@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bodyBox {
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://www.acharyauniv-erp.uz/static/media/auz.f01df81e898811f2f6ac.jpg');
+  
+}
